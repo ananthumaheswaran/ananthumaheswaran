@@ -1,5 +1,9 @@
-####👋 Hi, I'm Ananthu Maheswaran! 👨‍💻
-Welcome to my GitHub space! 👨‍💻
+ <div align="center">
+  <h1>👋 Hi, I'm Ananthu Maheswaran!</h1>
+</div>
+<div align="center">
+  <h3>Welcome to my GitHub space! 👨‍💻</h3>
+</div>
 
 ### 👀 About Me
 - 💻 I'm deeply involved in web development, exploring the latest technologies and frameworks to create amazing online experiences.
@@ -12,9 +16,10 @@ Welcome to my GitHub space! 👨‍💻
 - Version Control with Git 🧙‍♂️
 - Enthusiastic Problem Solver 🌌💡
 
-📫 Beam Me a Message!
+### 📫 Beam Me a Message!
 
 I'm open to collaborations and new opportunities. Reach out:
 - 📧 Email: ananthumaheswaran098@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/ananthumaheswaran
-Let's build something incredible together! 🚀🖥️
+   
+#### Let's build something incredible together! 🚀🖥️
