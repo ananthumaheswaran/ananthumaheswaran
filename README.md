@@ -19,7 +19,8 @@
 ### 📫 Beam Me a Message!
 
 I'm open to collaborations and new opportunities. Reach out:
-- 📧 Email: ananthumaheswaran098@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/ananthumaheswaran
-   
+
+- [![Email](https://img.shields.io/badge/Email-ananthumaheswaran098%40gmail.com-white?style=flat&logo=gmail&logoColor=white)](mailto:ananthumaheswaran098@gmail.com) &nbsp;&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananthu%20Maheswaran-white?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthu-maheswaran)
+    
 #### Let's build something incredible together! 🚀🖥️
