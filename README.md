@@ -11,16 +11,16 @@
 
 ### 🌱 Skills
 - HTML, CSS, JavaScript 🌐
-- React.js, Node.js 🚀
+- React.js, Node.js ⚛
 - Crafting Responsive Web Designs 🎨
 - Version Control with Git 🧙‍♂️
-- Enthusiastic Problem Solver 🌌💡
+- Enthusiastic Problem Solver 💡
 
 ### 📫 Beam Me a Message!
 
 I'm open to collaborations and new opportunities. Reach out:
 
-- [![Email](https://img.shields.io/badge/Email-ananthumaheswaran098%40gmail.com-white?style=flat&logo=gmail&logoColor=white)](mailto:ananthumaheswaran098@gmail.com) &nbsp;&nbsp;
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananthu%20Maheswaran-white?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthu-maheswaran)
+[![Email](https://img.shields.io/badge/Email-ananthumaheswaran098%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthumaheswaran098@gmail.com)
+
     
-#### Let's build something incredible together! 🚀🖥️
+### Let's build something incredible together!
