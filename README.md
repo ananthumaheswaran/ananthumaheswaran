@@ -15,12 +15,4 @@
 - Crafting Responsive Web Designs 🎨
 - Version Control with Git 🧙‍♂️
 - Enthusiastic Problem Solver 💡
-
-### 📫 Beam Me a Message!
-
-I'm open to collaborations and new opportunities. Reach out:
-
-[![Email](https://img.shields.io/badge/Email-ananthumaheswaran098%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthumaheswaran098@gmail.com)
-
-    
-### Let's build something incredible together!
+   
